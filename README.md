@@ -1,4 +1,4 @@
-![Workflow Diagram](Social Media Atomation Content Creation.png)
+![Workflow Diagram](Social-Media-Atomation-Content-Creation.png)
 # Social Media Automation Pipeline
 
 ## What It Does
